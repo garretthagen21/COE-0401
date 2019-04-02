@@ -1,0 +1,225 @@
+assig3> cat players.txt
+Inigo 9 8 1
+Roberts 8 5 3
+Vizzini 2 0 2
+Fezzik 11 6 5
+Buttercup 6 3 3
+Humperdinck 5 2 3
+
+-------------------------------------
+assig3> java PlayerListTest
+Testing PlayerList and Player classes
+Here are the player stats:
+Total Players: 6
+        Total Rounds Played: 41
+        Total Rounds Won: 24
+        Total Rounds Lost: 17
+        Pct of Rounds Won: 58.5
+
+New player info:
+        Name: Marge
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+Returning player info:
+        Name: Fezzik
+        Total Rounds Played: 11
+        Total Rounds Won: 6
+        Total Rounds Lost: 5
+
+New player info:
+        Name: Ingmar
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+Returning player info:
+        Name: Inigo
+        Total Rounds Played: 9
+        Total Rounds Won: 8
+        Total Rounds Lost: 1
+
+Here are the player stats:
+Total Players: 8
+        Total Rounds Played: 41
+        Total Rounds Won: 24
+        Total Rounds Lost: 17
+        Pct of Rounds Won: 58.5
+
+Here are the stats with the individual Player info:
+Total Players: 8
+        Total Rounds Played: 41
+        Total Rounds Won: 24
+        Total Rounds Lost: 17
+        Pct of Rounds Won: 58.5
+Players:
+        Name: Inigo
+        Total Rounds Played: 9
+        Total Rounds Won: 8
+        Total Rounds Lost: 1
+
+        Name: Roberts
+        Total Rounds Played: 8
+        Total Rounds Won: 5
+        Total Rounds Lost: 3
+
+        Name: Vizzini
+        Total Rounds Played: 2
+        Total Rounds Won: 0
+        Total Rounds Lost: 2
+
+        Name: Fezzik
+        Total Rounds Played: 11
+        Total Rounds Won: 6
+        Total Rounds Lost: 5
+
+        Name: Buttercup
+        Total Rounds Played: 6
+        Total Rounds Won: 3
+        Total Rounds Lost: 3
+
+        Name: Humperdinck
+        Total Rounds Played: 5
+        Total Rounds Won: 2
+        Total Rounds Lost: 3
+
+        Name: Marge
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+        Name: Ingmar
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+
+Trying to remove Fezzik
+        Name: Fezzik
+        Total Rounds Played: 11
+        Total Rounds Won: 6
+        Total Rounds Lost: 5
+...has been removed
+
+Trying to remove Fezzik
+Player Fezzik was not found
+
+-------------------------------------
+assig3> cat players.txt
+Inigo 9 8 1
+Roberts 8 5 3
+Vizzini 2 0 2
+Buttercup 6 3 3
+Humperdinck 5 2 3
+Marge 0 0 0
+Ingmar 0 0 0
+
+-------------------------------------
+assig3> java PlayerListTest
+Testing PlayerList and Player classes
+Here are the player stats:
+Total Players: 7
+        Total Rounds Played: 30
+        Total Rounds Won: 18
+        Total Rounds Lost: 12
+        Pct of Rounds Won: 60.0
+
+Returning player info:
+        Name: Marge
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+New player info:
+        Name: Fezzik
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+Returning player info:
+        Name: Ingmar
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+Returning player info:
+        Name: Inigo
+        Total Rounds Played: 9
+        Total Rounds Won: 8
+        Total Rounds Lost: 1
+
+Here are the player stats:
+Total Players: 8
+        Total Rounds Played: 30
+        Total Rounds Won: 18
+        Total Rounds Lost: 12
+        Pct of Rounds Won: 60.0
+
+Here are the stats with the individual Player info:
+Total Players: 8
+        Total Rounds Played: 30
+        Total Rounds Won: 18
+        Total Rounds Lost: 12
+        Pct of Rounds Won: 60.0
+Players:
+        Name: Inigo
+        Total Rounds Played: 9
+        Total Rounds Won: 8
+        Total Rounds Lost: 1
+
+        Name: Roberts
+        Total Rounds Played: 8
+        Total Rounds Won: 5
+        Total Rounds Lost: 3
+
+        Name: Vizzini
+        Total Rounds Played: 2
+        Total Rounds Won: 0
+        Total Rounds Lost: 2
+
+        Name: Buttercup
+        Total Rounds Played: 6
+        Total Rounds Won: 3
+        Total Rounds Lost: 3
+
+        Name: Humperdinck
+        Total Rounds Played: 5
+        Total Rounds Won: 2
+        Total Rounds Lost: 3
+
+        Name: Marge
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+        Name: Ingmar
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+        Name: Fezzik
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+
+
+Trying to remove Fezzik
+        Name: Fezzik
+        Total Rounds Played: 0
+        Total Rounds Won: 0
+        Total Rounds Lost: 0
+...has been removed
+
+Trying to remove Fezzik
+Player Fezzik was not found
+
+-------------------------------------
+assig3> cat players.txt
+Inigo 9 8 1
+Roberts 8 5 3
+Vizzini 2 0 2
+Buttercup 6 3 3
+Humperdinck 5 2 3
+Marge 0 0 0
+Ingmar 0 0 0

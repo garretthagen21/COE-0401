@@ -1,0 +1,116 @@
+Testing normal use...
+
+Here are the words:
+	Real word is : princess
+	Scrambled word is: prcsneis
+	Real word is : despair
+	Scrambled word is: rapseid
+	Real word is : dread
+	Scrambled word is: ddear
+	Real word is : insanity
+	Scrambled word is: naitsiyn
+	Real word is : swamp
+	Scrambled word is: awsmp
+	Real word is : grandpa
+	Scrambled word is: rdanpga
+	Real word is : pirate
+	Scrambled word is: aeitpr
+	Real word is : inconceivable
+	Scrambled word is: ibcielenacvno
+	Real word is : lightning
+	Scrambled word is: gnilhgtin
+	Real word is : sportsmanlike
+	Scrambled word is: oknlsmpersait
+	Real word is : mutton
+	Scrambled word is: ntutmo
+	Real word is : rodents
+	Scrambled word is: rdtneso
+	Real word is : blunders
+	Scrambled word is: dlesunrb
+
+Resetting words...
+Here are the words:
+	Real word is : rodents
+	Scrambled word is: nrodtes
+	Real word is : insanity
+	Scrambled word is: niasitny
+	Real word is : princess
+	Scrambled word is: ensiprsc
+	Real word is : grandpa
+	Scrambled word is: radnagp
+	Real word is : pirate
+	Scrambled word is: itaper
+	Real word is : swamp
+	Scrambled word is: smpwa
+	Real word is : inconceivable
+	Scrambled word is: iciabencevlon
+	Real word is : despair
+	Scrambled word is: epirsad
+	Real word is : mutton
+	Scrambled word is: otnumt
+	Real word is : sportsmanlike
+	Scrambled word is: rmipotenlasks
+	Real word is : dread
+	Scrambled word is: drdae
+	Real word is : lightning
+	Scrambled word is: itglgnnih
+	Real word is : blunders
+	Scrambled word is: userlbdn
+
+
+Testing special cases...
+
+Initial call to getScrambledWord(): 
+No scrambled word yet
+
+Two calls to getRealWord(): 
+Word 1: rodents
+Word 2: rodents
+
+Two calls to getScrambledWord(): 
+Scram word 1: setrndo
+Scram word 2: setrndo
+
+Now a call to each: 
+Word: despair
+Scram word: easdipr
+
+Partial use then reset: 
+Word: blunders
+Scram word: rnseudbl
+Word: insanity
+Scram word: nynaisti
+Word: pirate
+Scram word: ierpat
+Word: rodents
+Scram word: ndsrteo
+Word: inconceivable
+Scram word: cicinlveanobe
+
+Here are the words:
+	Real word is : insanity
+	Scrambled word is: atinniys
+	Real word is : princess
+	Scrambled word is: esprsicn
+	Real word is : sportsmanlike
+	Scrambled word is: aekrmnospsilt
+	Real word is : mutton
+	Scrambled word is: uttonm
+	Real word is : inconceivable
+	Scrambled word is: nclneeoiacvbi
+	Real word is : despair
+	Scrambled word is: sprieda
+	Real word is : rodents
+	Scrambled word is: ersntod
+	Real word is : lightning
+	Scrambled word is: gtlniingh
+	Real word is : pirate
+	Scrambled word is: paetri
+	Real word is : dread
+	Scrambled word is: rdaed
+	Real word is : grandpa
+	Scrambled word is: adpngar
+	Real word is : blunders
+	Scrambled word is: bdsnlrue
+	Real word is : swamp
+	Scrambled word is: maswp

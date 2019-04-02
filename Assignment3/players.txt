@@ -1,0 +1,6 @@
+Inigo 9 8 1	abc
+Roberts 8 5 3 abc
+Vizzini 2 0 2 abc
+Fezzik 11 6 5 abc
+Buttercup 6 3 3 abc
+Humperdinck 5 2 3 abc
